@@ -31,11 +31,11 @@ Avant de commencer, assurez-vous d'avoir installé les éléments suivants sur v
   ```bash
   npm install
   npm run dev
-```
+   ```
 - Ouvrez votre navigateur et accédez à http://localhost:5000](http://localhost:5173. Vous devriez voir votre application Svelte en cours d'exécution.
 
-  ## Installation et démarrage du Back-end (pyhton, Poetry) :
-  - Ouvrez un nouveau terminal puis
+## Installation et démarrage du Back-end (pyhton, Poetry) :
+   - Ouvrez un nouveau terminal puis
   ```bash
   cd back-end
   ```
