@@ -1,0 +1,237 @@
+[
+    {
+      "id": 1523,
+      "profil": {
+        "nom": "Dupont",
+        "prenom": "Jean",
+        "adresse": "1 Rue de la Paix, 75000 Paris, France",
+        "email": "jean.dupont@exemple.com",
+        "telephone": "+33 1 23 45 67 89"
+      },
+      "cotisation": {
+        "statut": "Actif",
+        "date_paiement": "2024-07-05",
+        "montant": 100.00
+      },
+      "cours_suivis": [
+        {
+          "id_cours": 1043,
+          "nom_cours": "Yoga",
+          "jour": "Lundi",
+          "heure": "18:00"
+        },
+        {
+          "id_cours": 2145,
+          "nom_cours": "Natation",
+          "jour": "Mercredi",
+          "heure": "19:30"
+        }
+      ],
+      "evenements_participes": [
+        {
+          "id_evenement": 3142,
+          "nom_evenement": "Fête du club",
+          "date_evenement": "2024-06-21"
+        },
+        {
+          "id_evenement": 1423,
+          "nom_evenement": "Tournoi de tennis",
+          "date_evenement": "2024-09-10"
+        }
+      ],
+      "responsables_legaux": {
+        "nom_pere": "Dupont Pierre",
+        "prenom_pere": "Pierre",
+        "email_pere": "pierre.dupont@exemple.com",
+        "telephone_pere": "+33 1 23 45 67 90",
+        "nom_mere": "Dupont Marie",
+        "prenom_mere": "Marie",
+        "email_mere": "marie.dupont@exemple.com",
+        "telephone_mere": "+33 1 23 45 67 91"
+      }
+    },
+    {
+      "id": 2451,
+      "profil": {
+        "nom": "Martin",
+        "prenom": "Léa",
+        "adresse": "5 Avenue du Soleil, 33000 Bordeaux, France",
+        "email": "lea.martin@exemple.com",
+        "telephone": "+33 1 23 45 67 92"
+      },
+      "cotisation": {
+        "statut": "En cours",
+        "date_paiement": "2024-05-12",
+        "montant": 80.00
+      },
+      "cours_suivis": [
+        {
+          "id_cours": 3412,
+          "nom_cours": "Danse",
+          "jour": "Mardi",
+          "heure": "17:00"
+        },
+        {
+          "id_cours": 4567,
+          "nom_cours": "Musculation",
+          "jour": "Vendredi",
+          "heure": "20:00"
+        }
+      ],
+      "evenements_participes": [
+        {
+          "id_evenement": 5214,
+          "nom_evenement": "Tournoi de tennis",
+          "date_evenement": "2024-09-10"
+        }
+      ],
+      "responsables_legaux": {
+        "nom_pere": null,
+        "prenom_pere": null,
+        "email_pere": null,
+        "telephone_pere": null,
+        "nom_mere": null,
+        "prenom_mere": null,
+        "email_mere": null,
+        "telephone_mere": null
+      }
+    },
+    {
+      "id": 3521,
+      "profil": {
+        "nom": "Lefevre",
+        "prenom": "Sophie",
+        "adresse": "10 Rue des Fleurs, 69000 Lyon, France",
+        "email": "sophie.lefevre@exemple.com",
+        "telephone": "+33 1 23 45 67 94"
+      },
+      "cotisation": {
+        "statut": "Actif",
+        "date_paiement": "2024-06-15",
+        "montant": 90.00
+      },
+      "cours_suivis": [
+        {
+          "id_cours": 6243,
+          "nom_cours": "Pilates",
+          "jour": "Jeudi",
+          "heure": "18:30"
+        },
+        {
+          "id_cours": 7345,
+          "nom_cours": "Boxe",
+          "jour": "Samedi",
+          "heure": "10:00"
+        }
+      ],
+      "evenements_participes": [
+        {
+          "id_evenement": 8412,
+          "nom_evenement": "Marathon de Lyon",
+          "date_evenement": "2024-10-03"
+        }
+      ],
+      "responsables_legaux": {
+        "nom_pere": "Lefevre Jacques",
+        "prenom_pere": "Jacques",
+        "email_pere": "jacques.lefevre@exemple.com",
+        "telephone_pere": "+33 1 23 45 67 95",
+        "nom_mere": "Lefevre Claire",
+        "prenom_mere": "Claire",
+        "email_mere": "claire.lefevre@exemple.com",
+        "telephone_mere": "+33 1 23 45 67 96"
+      }
+    },
+    {
+      "id": 4812,
+      "profil": {
+        "nom": "Bernard",
+        "prenom": "Luc",
+        "adresse": "20 Rue de la Liberté, 13000 Marseille, France",
+        "email": "luc.bernard@exemple.com",
+        "telephone": "+33 1 23 45 67 97"
+      },
+      "cotisation": {
+        "statut": "En cours",
+        "date_paiement": "2024-04-25",
+        "montant": 75.00
+      },
+      "cours_suivis": [
+        {
+          "id_cours": 9487,
+          "nom_cours": "Tennis",
+          "jour": "Mercredi",
+          "heure": "16:00"
+        },
+        {
+          "id_cours": 1052,
+          "nom_cours": "Course à pied",
+          "jour": "Dimanche",
+          "heure": "09:00"
+        }
+      ],
+      "evenements_participes": [
+        {
+          "id_evenement": 1145,
+          "nom_evenement": "Semi-marathon de Marseille",
+          "date_evenement": "2024-08-15"
+        }
+      ],
+      "responsables_legaux": {
+        "nom_pere": "Bernard Michel",
+        "prenom_pere": "Michel",
+        "email_pere": "michel.bernard@exemple.com",
+        "telephone_pere": "+33 1 23 45 67 98",
+        "nom_mere": "Bernard Anne",
+        "prenom_mere": "Anne",
+        "email_mere": "anne.bernard@exemple.com",
+        "telephone_mere": "+33 1 23 45 67 99"
+      }
+    },
+    {
+      "id": 5913,
+      "profil": {
+        "nom": "Moreau",
+        "prenom": "Emma",
+        "adresse": "30 Avenue de la République, 75000 Paris, France",
+        "email": "emma.moreau@exemple.com",
+        "telephone": "+33 1 23 45 67 00"
+      },
+      "cotisation": {
+        "statut": "Actif",
+        "date_paiement": "2024-03-20",
+        "montant": 110.00
+      },
+      "cours_suivis": [
+        {
+          "id_cours": 1243,
+          "nom_cours": "Zumba",
+          "jour": "Lundi",
+          "heure": "19:00"
+        },
+        {
+          "id_cours": 1345,
+          "nom_cours": "Escalade",
+          "jour": "Jeudi",
+          "heure": "17:00"
+        }
+      ],
+      "evenements_participes": [
+        {
+          "id_evenement": 1452,
+          "nom_evenement": "Grimpée de la Tour Eiffel",
+          "date_evenement": "2024-11-05"
+        }
+      ],
+      "responsables_legaux": {
+        "nom_pere": "Moreau Louis",
+        "prenom_pere": "Louis",
+        "email_pere": "louis.moreau@exemple.com",
+        "telephone_pere": "+33 1 23 45 67 01",
+        "nom_mere": "Moreau Elise",
+        "prenom_mere": "Elise",
+        "email_mere": "elise.moreau@exemple.com",
+        "telephone_mere": "+33 1 23 45 67 02"
+      }
+    }
+  ]
