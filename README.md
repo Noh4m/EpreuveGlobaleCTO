@@ -60,6 +60,7 @@ Avant de commencer, assurez-vous d'avoir installé les éléments suivants sur v
   URL : http://127.0.0.1:8000/adherents/adherents/{adherent_id}
   Méthode : GET
   Description : Cette route retourne les informations d'un adhérent spécifique en fonction de son ID.
+  - Vous pouvez retrouver les id des adhérents dans le fichier data.json
 
 ## Envoyer un mail
   Pour commencer il vas falloir configurer votre email dans le fichier config.py et changer l'adresse mail dans : 
